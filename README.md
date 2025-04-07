@@ -1,5 +1,5 @@
 <p position="center">
-   <img src="Isolated.png" alt="isolated" width="300"/>
+   <img src="supermorra_logo.png" alt="supermorra" width="300"/>
 </p>
 
 🧟 Morra De Sanctis is overrun by asparagus, it's up to Spadino to catch them!
