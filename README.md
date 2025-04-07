@@ -1,13 +1,13 @@
-# Morra Invaded
-
-🧟 Morra De Sanctis is overrun by zombies, it's up to farmer Peppo to stop them!
+# Super Morra
+[logo](supermorra_logo.png)
+🧟 Morra De Sanctis is overrun by asparagus, it's up to Spadino to catch them!
 
 ## 🎮 Play the Game
 You can play the game directly in your browser:
 [Play Now](YOUR_GITHUB_PAGES_LINK)
 
 ## 📖 About the Game
-This is a third-person shooter built in Unity. The game features fast-paced action where players must aim and shoot to survive.
+This is a 2D platform built in Unity.
 
 ### Features:
 - 🎯 Third-person shooting mechanics
