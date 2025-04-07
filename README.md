@@ -1,5 +1,6 @@
 # Super Morra
-[logo](supermorra_logo.png)
+![logo](supermorra_logo.png)
+
 🧟 Morra De Sanctis is overrun by asparagus, it's up to Spadino to catch them!
 
 ## 🎮 Play the Game
