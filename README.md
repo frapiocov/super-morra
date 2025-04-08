@@ -1,38 +1,27 @@
 <p position="center">
-   <img src="supermorra_logo.png" alt="supermorra" width="300"/>
+   <img src="super-morra-nobg.png" alt="supermorra" width="300"/>
 </p>
-
-🧟 Morra De Sanctis is overrun by asparagus, it's up to Spadino to catch them!
+The citizens of Morra De Sanctis suffer a severe asparagus omelette famine but one man is ready 
+to do anything to help his people. Collect the "spalici" along the way, complete the levels but watch out for enemies.
+This is a 2D platform built in Unity
 
 ## 🎮 Play the Game
 You can play the game directly in your browser:
 [Play Now](YOUR_GITHUB_PAGES_LINK)
 
-## 📖 About the Game
-This is a 2D platform built in Unity.
-
-### Features:
-- 🎯 Third-person shooting mechanics
-- 🏃‍♂️ Smooth character movement
-- 🔫 Various weapons and shooting effects
-- 🎵 Engaging sound effects and background music
-- 🌍 Immersive 3D environment
-
 ## 🛠️ How to Play
 - **Move**: `WASD` or arrow keys
-- **Aim**: Move the mouse
-- **Shoot**: Left mouse button
-- **Reload**: `R`
+- **Pause**: `P`
 - **Jump**: Spacebar
-- **Sprint**: Shift
+- **Fire**: Tab
 
 ## 🚀 Installation & Running Locally
 If you want to run the game locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git clone https://github.com/frapiocov/super-morra.git
    ```
-2. Open the project in Unity (tested with Unity version X.X.X)
+2. Open the project in Unity (tested with Unity version 2022.21.2)
 3. Click **Play** in the Unity editor to test it
 
 ## 🖥️ Hosting on GitHub Pages
@@ -48,16 +37,15 @@ The game is built and deployed using Unity WebGL. To host your own version:
 - **GitHub Pages** (Hosting)
 
 ## 💡 Future Improvements
-- Multiplayer mode
+- More levels
 - More weapon choices
-- AI-powered enemies
 - Improved animations
 
 ## 📜 License
 This project is open-source under the [MIT License](LICENSE).
 
 ## 📩 Contact
-For any issues or suggestions, feel free to reach out via GitHub Issues or email me at `your.email@example.com`.
+For any issues or suggestions, feel free to reach out via GitHub Issues or email me at `francescop.covino@gmail.com`.
 
 ---
 Enjoy the game! 🎯🔥
