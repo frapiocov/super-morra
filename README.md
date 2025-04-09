@@ -7,7 +7,7 @@ This is a 2D platform built in Unity
 
 ## 🎮 Play the Game
 You can play the game directly in your browser:
-[Play Now](YOUR_GITHUB_PAGES_LINK)
+[Play Now](https://frapiocov.github.io/super-morra/)
 
 ## 🛠️ How to Play
 - **Move**: `WASD` or arrow keys
@@ -42,7 +42,7 @@ The game is built and deployed using Unity WebGL. To host your own version:
 - Improved animations
 
 ## 📜 License
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [Apache License](LICENSE).
 
 ## 📩 Contact
 For any issues or suggestions, feel free to reach out via GitHub Issues or email me at `francescop.covino@gmail.com`.
