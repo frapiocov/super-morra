@@ -1124,11 +1124,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Aiuta Spadino a girare Morra De Sanctis, raccogli gli ingredienti per fare
-    un'ottima frittata di spalici ma stai attento ai nemici!
+  m_text: Gira Morra De Sanctis e raccogli gli ingredienti per fare un'ottima frittata
+    di spalici ma stai attento ai nemici!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 290db2da6b88d824dbc935c74b9029ee, type: 2}
-  m_sharedMaterial: {fileID: 411003335035824322, guid: 290db2da6b88d824dbc935c74b9029ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ca8a4aceb55ca5d40867bd054a1658fa, type: 2}
+  m_sharedMaterial: {fileID: 333421891061203583, guid: ca8a4aceb55ca5d40867bd054a1658fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
