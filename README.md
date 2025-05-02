@@ -1,13 +1,13 @@
 <p align="center">
    <img src="super-morra-nobg.png" alt="supermorra" width="350"/>
 </p>
-The citizens of Morra De Sanctis suffer a severe asparagus omelette famine but one man is ready 
+The citizens of Morra De Sanctis suffer a severe asparagus famine but one man is ready 
 to do anything to help his people. Collect the "spalici" along the way, complete the levels but watch out for enemies.
-This is a 2D platform built in Unity
+This is a 2D platform game built in Unity.
 
 ## 🎮 Play the Game
 You can play the game directly in your browser:
-[Play Now](https://frapiocov.github.io/super-morra/)
+[Play Now]()
 
 ## 🛠️ How to Play
 - **Move**: `WASD` or arrow keys
