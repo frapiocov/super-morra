@@ -6,8 +6,7 @@ to do anything to help his people. Collect the "spalici" along the way, complete
 This is a 2D platform game built in Unity.
 
 ## 🎮 Play the Game
-You can play the game directly in your browser:
-[Play Now]()
+You can play the game directly in your browser: **demo not yet available**, you will have to wait a little longer :(
 
 ## 🛠️ How to Play
 - **Move**: `WASD` or arrow keys
